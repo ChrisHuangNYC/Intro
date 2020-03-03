@@ -1,0 +1,8 @@
+Stock List:
+
+AAPL
+AMZN
+XOM
+PANW
+INO
+AKS
