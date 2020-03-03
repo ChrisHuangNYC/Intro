@@ -1,3 +1,4 @@
+
 Stock List:
 
 AAPL
@@ -6,3 +7,4 @@ XOM
 PANW
 INO
 AKS
+NEM
